@@ -1,12 +1,5 @@
-## GitHub CodeMief
-<br> ⭐ Working on knife crime awareness.
+⭐ Working on knife crime awareness -> [Knife Crime - Night of the Nerds](https://github.com/davey2206/Knife_Crime).
 <br> ⭐ Learning React.js & C#. 
-
-<br> <b>[Itch.io](https://codemief.itch.io/) && [About Me (Coming Soon)](https://codemief.github.io)
-
-
-
-
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
