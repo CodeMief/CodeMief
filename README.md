@@ -1,8 +1,17 @@
-/ᐠ - ˕ -マ Ⳋ
+## GitHub CodeMief
+<br> ⭐ Working on knife crime awareness.
+<br> ⭐ Learning React.js & C#. 
+
+<br> <b>[Itch.io](https://codemief.itch.io/) && [About Me (Coming Soon)](https://codemief.github.io)
+
+
+
+
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![BongoCatGIF](https://github.com/CodeMief/CodeMief/assets/77345324/726b71d8-70aa-40b9-99dc-3558fd657334)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
