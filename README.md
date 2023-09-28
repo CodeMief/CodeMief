@@ -1,5 +1,5 @@
-⭐ Working on knife crime awareness -> [Knife Crime - Night of the Nerds](https://github.com/davey2206/Knife_Crime).
-<br> ⭐ Learning React.js & C#. 
+⭐ Working on an exergame prototype @GrowthMoves.
+<br> ⭐ 2D Unity & C#. 
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
