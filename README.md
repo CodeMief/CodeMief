@@ -1,4 +1,4 @@
-⭐ Working on an exergame prototype @GrowthMoves.
+⭐ Working on a Story Adventure Game Shattered Echoes.
 <br> ⭐ 2D Unity & C#. 
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
