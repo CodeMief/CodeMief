@@ -1,5 +1,5 @@
-⭐ Working on a Story Adventure Game named Shattered Echoes.
-<br> ⭐ 2D Unity & C#. 
+⭐ Working on Cat Slime, a personal project.
+<br> ⭐ Unity & C#. 
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
