@@ -1,4 +1,4 @@
-⭐ Working on Cat Slime, a personal project.
+⭐ Working on an ARG for HBO Students.
 <br> ⭐ Unity & C#. 
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
