@@ -1,5 +1,6 @@
-⭐ Working on an ARG for HBO Students.
-<br> ⭐ Unity & C#. 
+- 🔭 I’m currently a game design intern on cognitive-based user interactions at Zander Labs B.V.
+- 💬 Ask me about pBCI and I'll try to explain!
+- 📫 How to reach me: message me on discord @mief
 <!--
 **CodeMief/CodeMief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
