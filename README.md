@@ -1,4 +1,4 @@
-- 🔭 I’m currently a game design intern on cognitive-based user interactions at Zander Labs B.V.
+- 🔭 I’m currently a game design intern on cognitive-based user interactions.
 - 💬 Ask me about pBCI and I'll try to explain!
 - 📫 How to reach me: message me on discord @mief
 <!--
